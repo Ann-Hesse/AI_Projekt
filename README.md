@@ -1,10 +1,12 @@
 # AI_Projekt
 # Projektbeschrieb
 Analyse von Kundenfeedback auf der Website Yelp
-Ziel: Vergleich verschiedener Modelle zur Textanalyse
 Daten: Yelp Review Sentiment Dataset (Kaggel)
 Datenbeschrieb: Das Feedback ist auf zwei Datensets, einem Trainings- und einem Testdatenset. Neben dem Komentar gaben die Kunden Feedback mit Sternen. Ein und zwei Sterne werden beim Labeln als Negativ = 1 angesehen und drei bis vier Sterne als Positiv = 2. Das Trainingset beinhaltet rund 560'000 Daten und das Testset rund 38'000 Daten. 
 Link zum Datenset: https://www.kaggle.com/datasets/ilhamfp31/yelp-review-dataset
+# Zielsetzung
+Ziel: Vergleich verschiedener einfacher Modelle zur Textanalyse
+Durch Anpassen von Parametern schauen welche einfachen Modelle für das Labeln von Kundenfeedback am besten geeignet ist. 
 # Einschränkungen: 
 - Für effektives arbeiten am Projekt wird bei allen Modellen nur 10% der vorhandenen Daten verwendet.
 - Verzicht auch Modelle wie Ilama, da die Fehlermeldung "CURSO, zu wenig Speicherplatz" nicht behoben werden konnte.
