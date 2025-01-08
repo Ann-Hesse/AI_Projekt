@@ -11,8 +11,10 @@ Ziel des Projekts ist es, verschiedene Sentiment-Analyse-Modelle auf den Yelp-Ku
 - Analyse der Modelle bezüglich ihrer Fähigkeit zur Identifikation relevanter Begriffe und deren semantische Erfassung.
 - Evaluation der Ergebnisse hinsichtlich der Problemstellung und deren Relevanz für praktische Anwendungen im Bereich der Kundenfeedback-Analyse.
 # Einschränkungen:
-Für das effektive Arbeiten am Projekt wird bei allen Modellen nur 10% der vorhandenen Daten verwendet.
-Der Einsatz von Modellen wie Ilama wurde ausgeschlossen, da immer wieder eine Fehlermeldung wegen zu wenig Speicherplatz  nicht behoben werden konnte.
+- Für das effektive Arbeiten am Projekt wird bei allen Modellen nur 10% der vorhandenen Daten verwendet.
+- Der Einsatz von Modellen wie Ilama wurde ausgeschlossen, da immer wieder eine Fehlermeldung wegen zu wenig Speicherplatz  nicht behoben werden konnte.
+- Damit das Notebook schneller durchläuft sind Verbesserungsvorschläge für den Basiccode als Komentar in der Zeile eingefügt.
+
 # Verwendete Modelle:
   - TextBlob
   Vorteile: Wenig Setup, einfach zu bedienen und wenig Ressourcen
