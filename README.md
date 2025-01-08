@@ -23,7 +23,7 @@ Ziel des Projekts ist es, verschiedene Sentiment-Analyse-Modelle auf den Yelp-Ku
   - GloVe (Global Vectors for Word Representation):
   Vorteile: Dichte und vektorielle Repräsentationen von Wörtern und das Erfassung von semantischen Beziehungen und     
   Kontextinformationen der Vektoren. 
-  Nachteil: Speicherintensiv und keine semantische oder kontextabhängige Erfassung von Wortbedeutungen. 
+  Nachteil: Speicherintensiv und keine kontextabhängige Erfassung von Wortbedeutungen. 
   Ergebniss: Nützlich für die semantische Erfassung von Wortbedeutungen.
   - RoBERTa (Robustly optimized BERT approach)
   Vorteile: Kontextabhängige Vektorrepräsentationen von Wörtern, dass heisst die Bedeutung eines Wortes wird im Kontext des 
